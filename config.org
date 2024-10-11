@@ -1,0 +1,6 @@
+** Font
+To Find The Name Of The Font Use This CMD >> =$ fc-list | fzf=
+#+BEGIN_SRC emacs-lisp
+  (add-to-list 'default-frame-alist
+               '(font . "JetBrainsMono Nerd Font-19"))
+#+END_SRC
