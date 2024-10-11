@@ -1,1 +1,1 @@
-config.org
+#+setupfile: config.org
